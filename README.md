@@ -7,4 +7,4 @@ bla bla bla who gives a shit
 [![stats](https://github-readme-stats.vercel.app/api?username=racks)](#)
 
 #### cool project im a part of
-[![VesaOS](https://github-readme-stats.vercel.app/api/pin/?username=TheRealEli310&repo=VesaOS)](https://github.com/TheRealEli310/VesaOS)
+[![VesaOS](https://github-readme-stats.vercel.app/api/pin/?username=VesaOS-Group&repo=VesaOS)](https://github.com/VesaOS-Group/VesaOS)
