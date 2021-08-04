@@ -17,6 +17,7 @@
 [![imh-client](https://github-readme-stats.vercel.app/api/pin/?username=raxracks&repo=imh-client)](https://github.com/raxracks/imh-client)
 [![imh-host](https://github-readme-stats.vercel.app/api/pin/?username=raxracks&repo=imh-host)](https://github.com/raxracks/imh-host)
 [![vlpp-pack](https://github-readme-stats.vercel.app/api/pin/?username=raxracks&repo=vlpp-pack)](https://github.com/raxracks/vlpp-pack)
+[![minecraft-raylib-c](https://github-readme-stats.vercel.app/api/pin/?username=raxracks&repo=minecraft-raylib-c)](https://github.com/raxracks/minecraft-raylib-c)
 
 #### cool projects im a part of
 [![VesaOS](https://github-readme-stats.vercel.app/api/pin/?username=VesaOS-Group&repo=VesaOS)](https://github.com/VesaOS-Group/VesaOS)
