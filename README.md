@@ -6,6 +6,8 @@
 
 ### hi
 
+#### im learning x86 intel assembly because why not
+
 #### some stats
 [![stats](https://github-readme-stats.vercel.app/api?username=raxracks)](https://github.com/anuraghazra/github-readme-stats)
 
