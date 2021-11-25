@@ -12,6 +12,7 @@
 [![stats](https://github-readme-stats.vercel.app/api?username=raxracks)](https://github.com/anuraghazra/github-readme-stats)
 
 #### personal favourites
+[![cookie-clicker-uwp](https://github-readme-stats.vercel.app/api/pin/?username=raxracks&repo=UWPEngineCPP)](https://github.com/raxracks/UWPEngineCPP)
 [![cookie-clicker-uwp](https://github-readme-stats.vercel.app/api/pin/?username=raxracks&repo=cookie-clicker-uwp)](https://github.com/raxracks/cookie-clicker-uwp)
 [![desktop-os](https://github-readme-stats.vercel.app/api/pin/?username=raxracks&repo=desktop-os)](https://github.com/raxracks/desktop-os)
 [![planover](https://github-readme-stats.vercel.app/api/pin/?username=raxracks&repo=planover)](https://github.com/raxracks/planover)
