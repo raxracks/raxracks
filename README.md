@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=raxracks">
 </h1>
 
-## please dont take this as a flex
+## some things i know
 [![skills](https://skillicons.dev/icons?i=bash,blender,bootstrap,c,cpp,cloudflare,deno,discord,dotnet,express,git,react,lua,md,mongodb,nestjs,nextjs,visualstudio,vscode,ts,js,html,css,wasm)](https://skillicons.dev)
 
 ### discord verified bot dev
