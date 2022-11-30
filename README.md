@@ -16,7 +16,7 @@
 
 #### personal favourites
 [![cookie-clicker-uwp](https://github-readme-stats.vercel.app/api/pin/?username=raxracks&repo=UWPEngineCPP&theme=monokai)](https://github.com/raxracks/UWPEngineCPP)
-[![cookie-clicker-uwp](https://github-readme-stats.vercel.app/api/pin/?username=raxracks&repo=cookie-clicker-uwp&theme=monokai)](https://github.com/raxracks/cookie-clicker-uwp)
+[![cookie-clicker-uwp](https://github-readme-stats.vercel.app/api/pin/?username=raxracks&repo=click-the-cookie-uwp&theme=monokai)](https://github.com/raxracks/click-the-cookie-uwp)
 [![desktop-os](https://github-readme-stats.vercel.app/api/pin/?username=raxracks&repo=desktop-os&theme=monokai)](https://github.com/raxracks/desktop-os)
 [![planover](https://github-readme-stats.vercel.app/api/pin/?username=raxracks&repo=planover&theme=monokai)](https://github.com/raxracks/planover)
 [![CoolLang](https://github-readme-stats.vercel.app/api/pin/?username=raxracks&repo=CoolLang&theme=monokai)](https://github.com/raxracks/CoolLang)
