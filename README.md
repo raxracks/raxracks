@@ -1,5 +1,5 @@
 <h1 align="center">
-  racks 😐
+  racks | sam
   <br><br>
   <img src="https://komarev.com/ghpvc/?username=raxracks">
 </h1>
