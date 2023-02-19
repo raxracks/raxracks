@@ -12,5 +12,4 @@
 ### hi
 
 #### some stats
-[![stats](https://github-readme-stats-ruby-one.vercel.app/api?username=raxracks&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
-[![wakatime](https://github-readme-stats-ruby-one.vercel.app/api/wakatime?username=raxracks&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
+[![stats](https://github-readme-stats.vercel.app/api?username=raxracks&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
