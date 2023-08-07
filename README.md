@@ -5,7 +5,7 @@
 </h1>
 
 ## some things i know
-[![skills](https://skillicons.dev/icons?i=bash,blender,bootstrap,c,cpp,cloudflare,deno,discord,dotnet,express,git,react,lua,md,mongodb,nestjs,nextjs,visualstudio,vscode,ts,js,html,css,wasm,java,androidstudio,go)](https://skillicons.dev)
+[![skills](https://skillicons.dev/icons?i=bash,blender,bootstrap,c,cpp,cloudflare,deno,discord,dotnet,express,git,react,lua,md,mongodb,nestjs,nextjs,visualstudio,vscode,ts,js,html,css,wasm,java,androidstudio,go,postgres,kotlin)](https://skillicons.dev)
 
 ### discord verified bot dev
 
